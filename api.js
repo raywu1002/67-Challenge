@@ -29,7 +29,7 @@ async function IP_Info() {
               text: "Programmed by Z3NTL3"
             },
             thumbnail: {
-              url: "https://media.tenor.com/h2AVqgVw4ZoAAAAC/gotcha-michael-madsen.gif"
+              url: "https://tenor.com"
             }
           }]
         })
